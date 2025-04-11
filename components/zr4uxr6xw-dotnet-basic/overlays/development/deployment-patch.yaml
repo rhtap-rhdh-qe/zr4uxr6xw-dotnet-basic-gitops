@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/rhtap-qe-dotnet-basic:c602e16df9081008257214a8a8414f08ce3b9338@sha256:72f56b5c46aa9e1137c4f2c94701ddaf5db3ca4b5df55495b29db1593cbda51a
+        - image: quay.io/rhtap_qe/rhtap-qe-dotnet-basic:fdbf3f1ac5d28f84d47d4f9e9e77e64c68f8d37b@sha256:a43ab969b57fe191724a2d39361d87996f6de9d40746c58b2b0c16193cde5c0d
           name: container-image
